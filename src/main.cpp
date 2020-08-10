@@ -4,6 +4,6 @@
 #include "App.h"
 #include "Utils/Date.h"
 
-int main() {
-    App a("data.txt");
+int main(int argc, char* argv[]) {
+    App a(argv[1]);
 }
