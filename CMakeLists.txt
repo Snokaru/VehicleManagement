@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(VehicleManagement)
+include_directories(./include)
+file(GLOB src "./src/Utils/*.cpp" "./src/States/*.cpp" "./src/Models/*.cpp" "./src/*.cpp")
+add_executable(VehicleManagement ${src}) 
