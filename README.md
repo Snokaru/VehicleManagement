@@ -3,7 +3,14 @@
 ## Description
 Terminal App To Manage The Vehicle Fleet Of A Company (Can Manage Trucks, Buses and Vehicles).
 The Vehicle Fleet Can Be Modified Respecting The data.txt format specified in Models/VehicleModel.h.
-![Image](https://i.imgur.com/rPp2LGA.png)
+<p float="left">
+  <img src="https://i.imgur.com/rPp2LGA.png" width="49%" />
+  <img src="https://i.imgur.com/jkUh3RG.png" width="49%" /> 
+</p>
+<p float="left">
+  <img src="https://i.imgur.com/GFbgM7B.png" width="49%" />
+  <img src="https://i.imgur.com/Ygv1ybS.png" width="49%" /> 
+</p>
 
 ## Installation
 The App Requires CMake In Order To Be Built
